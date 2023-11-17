@@ -1,8 +1,8 @@
 package gitDemo;
 
 public class LoginPage {
-
-	public void login()
+	
+	public void loginPagemethod()
 	{
 		System.out.println(" enter username");
 		System.out.println(" enter password");
